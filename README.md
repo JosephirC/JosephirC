@@ -32,7 +32,7 @@ Main focus: **NLP, LLMs, RAG, applied machine learning**
 
 - Email: youssef.abida.contact@gmail.com  
 - LinkedIn: [linkedin.com/in/youssef-abida](https://www.linkedin.com/in/youssef-abida)
-- 
+  
 <!--
 **JosephirC/JosephirC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
